@@ -1,0 +1,15 @@
+body{
+    background-color: lightpink;
+}
+h1{
+    color:white;
+    text-align: center;
+}
+footer{
+    color: whitesmoke;
+    font-size: larger;
+    text-align: center;
+    border-style: dotted;
+    border-width: thick;
+    border-color: darkmagenta;
+}
